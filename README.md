@@ -73,5 +73,3 @@ A company wants to develop a Smart Home Energy Management System (SHEMS) that al
 5. **Develop a Proof of Concept (PoC)**: Implement a basic energy tracking system.  
 
 ---
-
-This project covers areas such as **IoT system design**, **cloud infrastructure**, **real-time communication**, and **data analytics**. Would you like to explore a specific component of this system in more detail?
